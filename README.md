@@ -11,7 +11,6 @@
 ### Implemented
 - Page, models, components
 - Temporary saving of the messages
-- 
 
 # Run
 
